@@ -13,11 +13,6 @@ A simple and responsive weather web application that allows users to check real-
 ## 📸 Preview
 
 ![Weather App Screenshot](preview-image.png)  
-*(You can upload a screenshot of your app and rename it to `preview-image.png`)*
-
-## 🚀 Live Demo
-
-👉 [Live Preview](https://your-live-site-link.com) *(Optional – Add if you deployed it using GitHub Pages or another platform)*
 
 ## 🛠️ Tech Stack
 
